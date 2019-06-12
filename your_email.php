@@ -1,1 +1,0 @@
-<?php $to = ""; // <-- gameloby@yandex.com  ?>

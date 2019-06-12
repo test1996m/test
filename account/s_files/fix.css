@@ -1,0 +1,85 @@
+/* Effective stylesheet produced by snapshot save */
+body.client #mainContent { min-height: 680px; }
+body.bpf div.zoneContent.abonnements div.blocksOp ul li.step1 ul.stepContent li ul li.block-option div.block-container div.state input[type="radio"]:checked + label::before { color: rgb(66, 56, 47); border: 1px solid rgb(66, 56, 47); }
+body.bpf #nav9-aide a:hover span::before, body.bpf #nav9-aide.selected a span::before, body.bpf #nav9-aide:hover a span::before { color: rgb(73, 73, 73); }
+body.bpf .scroll-to-top-btn, body.part .scroll-to-top-btn { display: none; font-size: 4rem; color: rgb(204, 204, 204); cursor: pointer; position: fixed; bottom: 20px; right: 20px; width: 50px; height: 50px; z-index: 999; transform: rotate(90deg); }
+@media screen and (max-width: 768px) {
+  body.bpf #virement-unitaire-etape1 .list-fav .folder-btn::before { height: 65px; }
+}
+.bottom-header-connected .logoBNP-container { width: calc(100% - 315px); }
+#wrapper-ocnet-confirmation div.level1:nth-of-type(2), #wrapper-ocnet-fonctionnalites div.level1:nth-of-type(2), #wrappper-push-produits div.level1:nth-of-type(2) { padding: 20px 20px 70px 30px; }
+#wrappper-push-produits div.level1:nth-of-type(2) { padding: 20px 0px 70px; }
+#wrappper-push-produits .level1:nth-of-type(2) .level2 ul li a { text-decoration: none; }
+#wrapper-ocnet-confirmation div.level1:last-of-type, #wrapper-ocnet-confirmation div.level1:nth-of-type(2) { padding: 0px 10px; }
+#wrappper-push-produits .level1:nth-of-type(2) .level2 ul li span.onglet-assurance { background-color: rgb(227, 81, 75); color: rgb(255, 255, 255); border-radius: 25px; padding: 2px 21px; }
+#wrappper-push-produits .level1:nth-of-type(2) .level2 ul li span.onglet-bourse { background-color: rgb(36, 145, 238); color: rgb(255, 255, 255); border-radius: 25px; padding: 2px 21px; }
+#wrappper-push-produits .level1:nth-of-type(2) .level2 ul li span.onglet-carte { background-color: rgb(93, 198, 106); color: rgb(255, 255, 255); border-radius: 25px; padding: 2px 21px; }
+#wrappper-push-produits .level1:nth-of-type(2) .level2 ul li span.onglet-compte { background-color: rgb(93, 198, 106); color: rgb(255, 255, 255); border-radius: 25px; padding: 2px 21px; }
+#wrappper-push-produits .level1:nth-of-type(2) .level2 ul li span.onglet-credit { background-color: rgb(153, 59, 167); color: rgb(255, 255, 255); border-radius: 25px; padding: 2px 21px; }
+#wrappper-push-produits .level1:nth-of-type(2) .level2 ul li span.onglet-epargne { background-color: rgb(36, 145, 238); color: rgb(255, 255, 255); border-radius: 25px; padding: 2px 21px; }
+#wrappper-push-produits .level1:nth-of-type(2) .level2 ul li span.onglet-mobile { background-color: rgb(210, 98, 165); color: rgb(255, 255, 255); border-radius: 25px; padding: 2px 21px; }
+#wrappper-push-produits .level1:nth-of-type(2) .level2 ul li span.onglet-protection { background-color: rgb(254, 155, 10); color: rgb(255, 255, 255); border-radius: 25px; padding: 2px 21px; }
+#wrappper-push-produits .level1:nth-of-type(2) .level2 ul li.fp-complement-assurance { border-color: rgb(227, 81, 75); }
+#wrappper-push-produits .level1:nth-of-type(2) .level2 ul li.fp-complement-bourse { border-color: rgb(36, 145, 238); }
+#wrappper-push-produits .level1:nth-of-type(2) .level2 ul li.fp-complement-carte { border-color: rgb(93, 198, 106); }
+#wrappper-push-produits .level1:nth-of-type(2) .level2 ul li.fp-complement-compte { border-color: rgb(93, 198, 106); }
+#wrappper-push-produits .level1:nth-of-type(2) .level2 ul li.fp-complement-credit { border-color: rgb(153, 59, 167); }
+#wrappper-push-produits .level1:nth-of-type(2) .level2 ul li.fp-complement-epargne { border-color: rgb(36, 145, 238); }
+#wrappper-push-produits .level1:nth-of-type(2) .level2 ul li.fp-complement-mobile { border-color: rgb(210, 98, 165); }
+#wrappper-push-produits .level1:nth-of-type(2) .level2 ul li.fp-complement-protection { border-color: rgb(254, 155, 10); }
+#wrappper-push-produits .level1:nth-of-type(2) .level2 ul li a { width: 100%; }
+body.pro ul.onglet #mesCartes, body.pro #ia-udcarte ul.onglet li:nth-child(2), body.pro #ia-udcarte ul.onglet li:nth-child(3) { display: none; }
+.list-vue3 .udc-liquidite .a-venir::after { content: ""; background-image: url("urn:not-loaded:https://mabanque.bnpparibas/rsc/contrib/image/particuliers/udc/avenir-sprite.png"); height: 60px; width: 63px; left: 0px; top: 2rem; margin-left: 30px; position: absolute; background-position: center bottom; background-repeat: no-repeat; }
+.list-vue3 .udc-liquidite .a-venir.op-positif::after { background-position: center top; }
+.list-vue3 .udc-liquidite .a-venir.op-negatif::after { background-position: center center; }
+@media screen and (max-width: 768px) {
+  div.castor-popin div.castor-content div.castor-checkbox input[type="radio"]:not(old) + label { line-height: 1; min-height: 25px; }
+}
+.icones-footer-contact-bddf span.footer-title-descr { text-transform: none; margin-bottom: 0.7em; display: inline-block; }
+@keyframes bouncedelay {
+  0%, 80%, 100% { transform: scale(0); }
+  40% { transform: scale(1); }
+}
+@keyframes bouncedelay {
+  0%, 80%, 100% { transform: scale(0); }
+  40% { transform: scale(1); }
+}
+.bottom-header, .bottom-header-connected, .ls-canvas { max-width: 1400px; }
+body.mw-1400 .ls-canvas, body.mw-1400 .bottom-header, body.mw-1400 .bottom-header-connected { max-width: 1400px; }
+.priority #wrapper-priority-offres div.level1:nth-of-type(2) div.level2:nth-of-type(1) div.level3.table-cell:first-child { width: 30%; }
+#wrapper-gabarit-libre div.level2 .level3.gl-section-categorie2 div.table-cell:nth-of-type(2) { width: 44%; padding-left: 40px; }
+.table-striped > tbody > tr:nth-of-type(2n+1) { background-color: rgb(231, 231, 231); }
+.table-striped-bpf > tbody > tr:nth-of-type(2n+1) { background-color: rgb(245, 241, 237); }
+.icon.icon-gammeOpcvm::before { content: ""; }
+.nb-messages .round-img { display: none; }
+.part .nb-messages .round-img, .bpf .nb-messages .round-img { display: block; }
+#topHeader { display: none; }
+.popover { z-index: 202; }
+.bottom-header-connected.mobile-only .nb-messages .round-img { display: none; }
+#ocnet-change > p.phrase2-bpf::first-letter { text-transform: capitalize; color: rgb(205, 174, 110); font-size: 1.6666rem; }
+.btn-secondary2:hover:not([disabled]) { background-color: rgb(246, 246, 246); background-image: linear-gradient(rgb(246, 246, 246), rgb(255, 255, 255)); }
+div#wrapper-hub-offre-col100 div.level1:nth-of-type(4) ul li span.simulateur-outils { position: relative; top: 5rem; display: inline-block; width: 50px; height: 50px; }
+.wrapper-ocnet-noel .wrap .col-2:nth-of-type(2) .top { height: 177px; background-size: cover; border-width: 1px 1px 0px; border-style: solid solid none; border-color: rgb(231, 231, 231) rgb(231, 231, 231) currentcolor; -moz-border-top-colors: none; -moz-border-right-colors: none; -moz-border-bottom-colors: none; -moz-border-left-colors: none; border-image: none; }
+.wrapper-ocnet-noel .wrap .col-2:nth-of-type(2) .center p.promo { margin-top: 36px; }
+.wrapper-ocnet-noel .wrap .col-2:nth-of-type(3) .top { height: 177px; background-size: cover; border-width: 1px 1px 0px; border-style: solid solid none; border-color: rgb(231, 231, 231) rgb(231, 231, 231) currentcolor; -moz-border-top-colors: none; -moz-border-right-colors: none; -moz-border-bottom-colors: none; -moz-border-left-colors: none; border-image: none; }
+.wrapper-ocnet-noel .wrap .col-2:nth-of-type(4) .top { height: 177px; background-size: cover; border-width: 1px 1px 0px; border-style: solid solid none; border-color: rgb(231, 231, 231) rgb(231, 231, 231) currentcolor; -moz-border-top-colors: none; -moz-border-right-colors: none; -moz-border-bottom-colors: none; -moz-border-left-colors: none; border-image: none; }
+#wrapper-ocnet-confirmation div#list-info-ocnet::before { background-image: none; content: ""; display: inline; font-family: iconbnp; font-size: 2.5rem; font-style: normal; font-variant: normal; font-weight: 400; height: 0px; left: 45px; line-height: 1; position: absolute; text-transform: none; top: 30%; width: 0px; color: rgb(156, 37, 90); }
+@media screen and (max-width: 768px) {
+  #nav5-portefeuille-bourse span { padding: 10px 0px 0px 44px; }
+  #nav6-produits span, #nav7-besoins span { padding-left: 8px; }
+  #nav8-contact a { padding-left: 8px; }
+  #nav-connect { top: 0px; }
+  body:not(.client) .onglet-nav { top: 0px; }
+}
+.wrapper-commande-chequier .icon.icon-enveloppe-alt::before { content: ""; font-size: 64px; }
+.wrapper-commande-chequier .icon.icon-enveloppe-bis::before { content: ""; font-size: 64px; }
+#agence-trouver-row #infos-a p:nth-of-type(2) { margin-top: -22px; }
+#wcm-l-vente-flash-cartes .col-2:nth-child(2n) { margin-right: inherit; }
+[name="code-oublie"] .date-picker::after { background-image: none; }
+.bpf .pop-in-brexit .btn-primary:hover:not([disabled]) { background-color: rgb(45, 38, 32); background-image: linear-gradient(rgb(45, 38, 32), rgb(60, 50, 43)); border-color: rgb(0, 0, 0); }
+#ia-rdv-pro .credit-c [type="radio"]:checked + label::before { border: 1px solid rgb(153, 59, 167); }
+#ia-rdv-pro .credit-c [type="radio"]:checked + label::after, #ia-rdv-pro .credit-c [type="radio"]:not(:checked) + label::after { color: rgb(153, 59, 167); }
+#ia-kyc label[for="skip_form"] span:nth-child(4), #ia-kyc label[for="skip_form"] span:nth-child(5) { display: none; }
+#popMessagerie .arrow::before { border-bottom-color: rgb(163, 52, 103); }
+#popMessagerie .arrow::after { border-bottom-color: transparent; }
+#popMessagerie .help-text-popup.up-arrow::after { content: ""; display: block; position: absolute; left: 50%; bottom: 100%; width: 0px; height: 0px; border-width: 10px; border-style: solid; border-color: transparent transparent rgb(163, 52, 103); }

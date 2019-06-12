@@ -1,0 +1,59 @@
+/* Effective stylesheet produced by snapshot save */
+@import url("base-blessed5.css");
+@import url("base-blessed4.css");
+@import url("base-blessed3.css");
+@import url("base-blessed2.css");
+@import url("base-blessed1.css");
+.ec-mesdocuments #rel_6_months::after { content: url("urn:not-loaded:https://mabanque.bnpparibas/rsc/contrib/image/generique/mes-documents/intersticiel-fleche-1.png"); position: absolute; bottom: 0px; left: 87%; }
+.ec-mesdocuments #consul_rel::before { content: url("urn:not-loaded:https://mabanque.bnpparibas/rsc/contrib/image/generique/mes-documents/intersticiel-fleche-2.png"); position: absolute; bottom: 105px; left: 175px; }
+.ec-mesdocuments #retrouv_rel::before { content: url("urn:not-loaded:https://mabanque.bnpparibas/rsc/contrib/image/generique/mes-documents/intersticiel-fleche-3.png"); position: absolute; bottom: 80px; left: 25px; }
+.ec-mesdocuments.part #retrouv_rel::before, .ec-mesdocuments.pro #retrouv_rel::before { left: 55px; }
+.ec-mesdocuments.part .ie11 #retrouv_rel::before, .ec-mesdocuments.pro .ie11 #retrouv_rel::before { left: 55px; }
+.interstitiel #interst-bloc2::after { content: url("urn:not-loaded:https://mabanque.bnpparibas/rsc/contrib/image/generique/virement/virement-fleche2.png"); position: absolute; bottom: 0px; right: 260px; }
+.interstitiel #interst-bloc3::before { content: url("urn:not-loaded:https://mabanque.bnpparibas/rsc/contrib/image/generique/virement/virement-fleche3.png"); position: absolute; top: 0px; right: 69px; }
+@keyframes bounceIn {
+  20%, 40%, 60%, 80%, 0%, 100% { animation-timing-function: cubic-bezier(0.215, 0.61, 0.355, 1); }
+  0% { opacity: 0; transform: scale3d(0.3, 0.3, 0.3); }
+  20% { transform: scale3d(1.1, 1.1, 1.1); }
+  40% { transform: scale3d(0.9, 0.9, 0.9); }
+  60% { opacity: 1; transform: scale3d(1.03, 1.03, 1.03); }
+  80% { transform: scale3d(0.97, 0.97, 0.97); }
+  100% { opacity: 1; transform: scale3d(1, 1, 1); }
+}
+@keyframes bounceIn {
+  20%, 40%, 60%, 80%, 0%, 100% { animation-timing-function: cubic-bezier(0.215, 0.61, 0.355, 1); }
+  0% { opacity: 0; transform: scale3d(0.3, 0.3, 0.3); }
+  20% { transform: scale3d(1.1, 1.1, 1.1); }
+  40% { transform: scale3d(0.9, 0.9, 0.9); }
+  60% { opacity: 0.5; transform: scale3d(1.03, 1.03, 1.03); }
+  80% { transform: scale3d(0.97, 0.97, 0.97); }
+  100% { opacity: 1; transform: scale3d(1, 1, 1); }
+}
+@keyframes bounceInDown {
+  60%, 75%, 90%, 0%, 100% { animation-timing-function: cubic-bezier(0.215, 0.61, 0.355, 1); }
+  0% { opacity: 0; transform: translate3d(0px, -3000px, 0px); }
+  60% { opacity: 0.5; transform: translate3d(0px, 25px, 0px); }
+  75% { transform: translate3d(0px, -10px, 0px); }
+  90% { transform: translate3d(0px, 5px, 0px); }
+  100% { transform: none; }
+}
+@keyframes shake {
+  0%, 100% { transform: translate3d(0px, 0px, 0px); }
+  10%, 30%, 50%, 70%, 90% { transform: translate3d(-10px, 0px, 0px); }
+  20%, 40%, 60%, 80% { transform: translate3d(10px, 0px, 0px); }
+}
+@keyframes shake {
+  0%, 100% { transform: translate3d(0px, 0px, 0px); }
+  10%, 30%, 50%, 70%, 90% { transform: translate3d(-10px, 0px, 0px); }
+  20%, 40%, 60%, 80% { transform: translate3d(10px, 0px, 0px); }
+}
+.anim-mobileo-etp3 figure:nth-child(n+2) { width: 50%; float: left; margin-top: -50px; }
+#amContrat::before, #amFam::after, #amWorld::before { position: absolute; left: 50%; content: ""; display: block; height: 60px; width: 1px; background-image: url("urn:not-loaded:https://mabanque.bnpparibas/rsc/contrib/image/particuliers/mobileo-anim/dash.png"); margin-top: 5px; }
+#amWorld::before { transform: rotate(45deg); margin-top: -20px; left: 75%; }
+#amContrat::before { transform: rotate(-45deg); margin-top: -20px; left: 25%; }
+#amNewTel::before, #amReparTel::before { content: ""; width: 204px; height: 76px; background-image: url("urn:not-loaded:https://mabanque.bnpparibas/rsc/contrib/image/particuliers/mobileo-anim/fleche-legende.png"); position: absolute; }
+#amNewTel::before { bottom: 20px; left: 232px; }
+#amReparTel::before { right: 236px; transform: rotate(170deg); }
+.anim-mobileo-etp6 figcaption::before { content: ""; width: 198px; height: 102px; position: absolute; }
+#amPhone3 figcaption::before { background-image: url("urn:not-loaded:https://mabanque.bnpparibas/rsc/contrib/image/particuliers/mobileo-anim/fleche-legende2.png"); top: 60px; left: -80px; }
+#amPhone4 figcaption::before { width: 170px; height: 54px; left: 80px; top: 50px; background-image: url("urn:not-loaded:https://mabanque.bnpparibas/rsc/contrib/image/particuliers/mobileo-anim/fleche-legende3.png"); }

@@ -1,0 +1,25 @@
+/* Effective stylesheet produced by snapshot save */
+.news__footer .date .icon::before { display: inline-block; vertical-align: middle; }
+.content-new::before { content: ""; display: inline-block; height: 100%; vertical-align: middle; }
+.banner.banner-basic.banner-basic--half p:not(.date) { float: none ! important; }
+.banner-basic__policy::after { content: "*Offre soumise Ã  conditions."; font-size: 0.88rem; }
+.banner-basic__main--black .banner-basic__policy::after { color: rgb(175, 175, 175); }
+@media screen and (min-width: 1024px) {
+  .banner-basic__policy::after { display: none; }
+}
+.banner-basic--wide.banner-basic--small .banner-basic__policy::after { display: none; }
+.banner-basic--wide:not(.banner-basic--small) .banner-basic__policy { position: static; padding: 1%; }
+.banner-basic--wide:not(.banner-basic--small) .banner-basic__policy p { margin: 0px; }
+@media screen and (min-width: 768px) {
+  .banner-basic--wide:not(.banner-basic--small) .banner-basic__policy { padding: 31px 0px 0px; }
+}
+.poka-simulator__bar::before, .poka-simulator__bar::after { background: transparent linear-gradient(to bottom, rgb(250, 249, 249) 0%, rgb(247, 246, 246) 87%, rgb(240, 238, 238) 100%) repeat scroll 0% 0%; border-radius: 100%; bottom: 0px; content: ""; height: 12px; position: absolute; top: 0px; width: 12px; }
+.poka-simulator__bar::before { left: -6px; }
+.poka-simulator__bar::after { right: -6px; }
+.poka-simulator__bar--complete::before { background: transparent linear-gradient(to bottom, rgb(52, 202, 147) 0%, rgb(87, 196, 110) 100%) repeat scroll 0% 0%; border-radius: 100%; content: ""; position: absolute; left: -6px; top: 0px; height: 12px; width: 12px; }
+.poka-simulator__tooltip::before { content: ""; display: inline-block; height: 100%; vertical-align: middle; }
+.poka-simulator__tooltip::after { content: ""; border-left: 10px solid transparent; border-right: 10px solid transparent; border-top: 10px solid rgb(29, 164, 96); bottom: -8px; margin-left: -11px; left: 50%; position: absolute; }
+@media screen and (min-width: 768px) {
+  .banner-product__container::before { content: ""; display: inline-block; height: 100%; vertical-align: middle; }
+}
+.banner-product__asset::before { content: ""; display: inline-block; height: 100%; vertical-align: middle; }
